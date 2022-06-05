@@ -1,0 +1,34 @@
+segment_sources:
+  ID0AD6A66:
+    type: origin_type
+    relation: translation
+    language: en
+  I1E46FBF4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0a95348ea2d64296a0eb7cbe88f44e3c:
+    ID0AD6A66: 40dc11a623e64ed187d317668039e229
+    I1E46FBF4: 14a9911e80fd421e8def06a5bdff3413
+  477e3f4205cd4e7fbc21762ba14fdce2:
+    ID0AD6A66: b77a7bd1bb284317b0f8477ad976c0f7
+    I1E46FBF4: 134ba8136dbc40a28aad923af384a763
+  e6f9e1de0b264de2843be20e895b816e:
+    ID0AD6A66: ed91bccd0e934c798006d24810443826
+    I1E46FBF4: f9bb6c80521946b9ab6c7cba53397960
+  4767d2803b1943cbaf9e1865187d42d4:
+    ID0AD6A66: 2390252b0fb5410193d0022c677c85f0
+    I1E46FBF4: c7719b03082d42f8a1240560a8c890eb
+  98f9ea1dae4e44929629196d879eed01:
+    ID0AD6A66: ed173797bcdd47cfb61c4960ae9f87e1
+    I1E46FBF4: 2a3d621cc4eb43bb8267423ad367ebad
+  7641a9ec382c441daa366d0edd8dce37:
+    ID0AD6A66: 5ba1e2b7dcdf4c23803c0ec965cc962a
+    I1E46FBF4: ada3e4dec73242ac86df2f39e3ba8687
+  7a49df76f3cc4836b9f4eb1e640b3372:
+    ID0AD6A66: 814c32237f8c4fbf9fac1cfd7c1b81fa
+    I1E46FBF4: 6d0cc145a60c438e80a05458f3fc8a02
+  b1bb9d84b41b4a17ad9a775aae36b331:
+    ID0AD6A66: c69bd361a03f44e3b404384a26601c89
+    I1E46FBF4: 3a3d9c854a414f0e80cdbee21a6c5d06

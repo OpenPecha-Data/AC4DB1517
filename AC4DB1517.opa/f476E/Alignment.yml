@@ -1,0 +1,19 @@
+segment_sources:
+  ID0AD6A66:
+    type: origin_type
+    relation: translation
+    language: en
+  I1E46FBF4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2ef66c214ecc4280ab5e5318b5b38c12:
+    ID0AD6A66: 037e9df20ccb43e989eccf9453e4f1e1
+    I1E46FBF4: a1c83c722cc54921adc25c7817e2c368
+  838ec1e906e94885906e01e1b3bea9b2:
+    ID0AD6A66: 2704c22bef354e19a11c0f07f1f129b6
+    I1E46FBF4: 0530213652dd4a9da3c6daaa07e68c2f
+  f81458dc7f474727b344c8aca3fc85ca:
+    ID0AD6A66: fb780e80ccd44fd19260ebe830f8f02d
+    I1E46FBF4: 9acc3b480de448d59bf38fc584d230fd

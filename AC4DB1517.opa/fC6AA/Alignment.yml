@@ -1,0 +1,40 @@
+segment_sources:
+  ID0AD6A66:
+    type: origin_type
+    relation: translation
+    language: en
+  IB4C3EBD7:
+    type: origin_type
+    relation: translation
+    language: de
+  ICDCF9466:
+    type: origin_type
+    relation: translation
+    language: es
+  IB7AA78A9:
+    type: origin_type
+    relation: translation
+    language: fr
+  I1E46FBF4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  92c9af93bfa64f469bb14459ee3a603d:
+    ID0AD6A66: 17b4b8ec721b4c22bd15811940e549c0
+    IB4C3EBD7: 3d55027115e04197b75961b1dc89b45b
+    ICDCF9466: 03e00eeb56744e359987c86391d760f8
+    IB7AA78A9: 4490122fe2d44b97b8acd24ed4032994
+    I1E46FBF4: 0f80588feac649cdbe6d61b827ea50e5
+  5bc5304b1e71444baf94e4f6f3a0e092:
+    ID0AD6A66: 0e0f552ebc2e46ef8fea4770e3580079
+    IB4C3EBD7: 9cedbab09bc94a7c92bdf70b6d8f3831
+    ICDCF9466: 468bf8864fd244478095f5c015c7da40
+    IB7AA78A9: d3b32dd3b2e64337877dbc90d0f74e49
+    I1E46FBF4: 609dec21e4ae4c418f583b83f6f3cdc3
+  4077c1f0163b4cdfadd9aa1192611fbc:
+    ID0AD6A66: 6b1f4081af58478dbe5616e4501855c2
+    IB4C3EBD7: 50f5580bae904f4ea5ebe26a91884f85
+    ICDCF9466: 69781acb3b6649b19af0e170dd2d82f7
+    IB7AA78A9: 1b5e57679bec4f3a9b9df54ceb2e4f57
+    I1E46FBF4: fb3981845fde43e69644c36a21e10434
